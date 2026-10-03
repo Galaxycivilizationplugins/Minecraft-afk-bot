@@ -66,9 +66,9 @@ Edit the bot-authme-first.js file with your own settings:
 ```
 {
   "server": {
-    "host": "your.minecraft.server.ip",
-    "port": 25565,
-    "version": "1.20.4"
+    "host": "windslinesmp.aternos.me",
+    "port": 56723,
+    "version": "1.21.11"
   },
   "bot": {
     "username": "YourBotName",
@@ -84,9 +84,9 @@ Edit the bot-authme-first.js file with your own settings:
     "movement": {
       "enabled": true,
       "coordinates": {
-        "x": 100,
-        "y": 65,
-        "z": 100
+        "x": 0,
+        "y": 70,
+        "z": 0
       }
     },
     "antiAFK": {
